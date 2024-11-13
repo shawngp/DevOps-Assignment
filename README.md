@@ -1,2 +1,2 @@
-# DevOps-Project
+# DevOps-Assignment
 DevOps maven project 
